@@ -98,7 +98,7 @@ Multi-Chain   →  CEX (Binance Spot) + DEX (BSC/ETH/SOL/Base/Pump.fun)
 
 ```bash
 # No installation required — runs as a single HTML file
-git clone https://github.com/YOUR_USERNAME/whale-guardian-copier
+git clone vesper-valois-whale-guardian-copier.netlify.app
 cd whale-guardian-copier
 open whale-guardian-v7.html
 ```
