@@ -103,7 +103,7 @@ cd whale-guardian-copier
 open whale-guardian-v7.html
 ```
 
-> ⚠️ **Demo Mode**: All trades are simulated. To enable real trading, see [Production Setup](#production-setup) below.
+> ⚠️ **Demo Mode**: All trades are simulated. To enable real trading, see [Production Setup](vesper-valois-whale-guardian-copier.netlify.app) below.
 
 ---
 
